@@ -16,6 +16,10 @@ Aqui adicionei uma edição posterior
  </p>
 c=======
 
+<p>
+Edição paragrafo do meio
+</p>
+
 branch main
 
 <p>
